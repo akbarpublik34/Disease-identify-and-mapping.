@@ -1,4 +1,6 @@
-# Infectious and Pandemic Disease Project - Lokahii Hackathon 2024
+![Pathoscope Image](https://drive.google.com/drive/search?q=pathoscope)
+
+# PathoScope : Infectious and Pandemic Disease Project - Lokahii Hackathon 2024
 
 This project focuses on leveraging technology to identify and map the spread of infectious and pandemic diseases, enabling efficient prediction and management of disease distribution.
 
