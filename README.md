@@ -1,4 +1,3 @@
-![Image Description](https://drive.google.com/drive/search?q=pathoscope)
 
 # PathoScope : Infectious and Pandemic Disease Project - Lokahii Hackathon 2024
 
