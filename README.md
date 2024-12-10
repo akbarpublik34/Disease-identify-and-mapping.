@@ -1,5 +1,5 @@
 # Dissolve : Infectious and Pandemic Disease Project - Lokahii Hackathon 2024
-![image](https://github.com/akbarpublik34/Disease-identify-and-mapping./blob/main/DISSOLVE.jpg)
+![image](https://github.com/akbarpublik34/Disease-identify-and-mapping./blob/main/Dissolve%20p.jpg)
 This project focuses on leveraging technology to identify and map the spread of infectious and pandemic diseases, enabling efficient prediction and management of disease distribution.
 
 ## Concept  
